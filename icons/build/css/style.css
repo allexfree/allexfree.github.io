@@ -994,8 +994,8 @@ input[type="radio"].visually-hidden {
     -webkit-box-shadow: 0px 0px 15px 5px rgba(155, 50, 239, 0);
             box-shadow: 0px 0px 15px 5px rgba(155, 50, 239, 0); }
   .list__item:nth-child(3) a {
-    background-image: -webkit-gradient(linear, left top, right top, from(#11998e), to(#38ef7d));
-    background-image: linear-gradient(to right, #11998e, #38ef7d);
+    background-image: -webkit-gradient(linear, left top, right top, from(#38ef7d), to(#11998e));
+    background-image: linear-gradient(to right, #38ef7d, #11998e);
     -webkit-box-shadow: 0px 0px 15px 5px rgba(95, 255, 188, 0);
             box-shadow: 0px 0px 15px 5px rgba(95, 255, 188, 0); }
   .list__item:last-child {
